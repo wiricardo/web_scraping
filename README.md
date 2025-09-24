@@ -10,7 +10,7 @@ This repository contains scripts/notebooks to extract data from web pages, proce
 ```
 web_scrapping/
 ├── code/              # Source code: scraping scripts or notebooks
-├── output/            # Results: extracted data (CSV)
+├── output/            # Results: extracted data (CSV and JSON)
 ├── requirements.txt   # Python dependencies
 └── LICENSE           # MIT License
 ```
